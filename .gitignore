@@ -1,0 +1,30 @@
+# Node.js
+node_modules/
+package-lock.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.env
+.venv/
+venv/
+ENV/
+env/
+
+# Excel & Data
+*.csv
+*.xlsx
+*.xls
+
+# Build artifacts
+*.exe
+dist/
+build/
+*.spec
+
+# Log & Temp files
+*.log
+temp_images/
+.DS_Store
+
